@@ -1,7 +1,11 @@
 pandas
 google_play_scraper
 time
-Sastrawi
-emoji
-re
 nltk
+numpy
+matplotlib
+seaborn
+Sastrawi
+scikit-learn
+wordcloud
+requests
